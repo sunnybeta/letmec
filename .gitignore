@@ -1,0 +1,6 @@
+# Object
+*.o
+
+# Binary
+server
+client
